@@ -24,17 +24,17 @@ Each recipe is designed to be:
 
 ### DeepSeek  
 
-- DeepSeek Model Recipes
+- DeepSeek Model Recipes (Model Recipes/deepseek/)
   Reference configurations and scripts for running DeepSeek models with SGL across different hardware setups.  
 
 ### GPT-OSS  
 
-- GPT-OSS Model Recipes
+- GPT-OSS Model Recipes (Model Recipes/gpt-oss/)
   Reference configurations and scripts for running GPT-OSS models with SGL across different hardware setups.
 
 ### Llama4  
 
-- Llama4 Model Recipes
+- Llama4 Model Recipes (Model Recipes/llama4/)
   Reference configurations and scripts for running Llama4 models with SGL across different hardware setups.
   
 ---
