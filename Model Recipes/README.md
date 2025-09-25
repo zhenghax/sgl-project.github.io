@@ -1,4 +1,4 @@
-# SGL Model Recipes
+# SGLang Model Recipes
 
 This repository is a **community-maintained collection of reference recipes** for deploying and operating SGL across diverse environments.  
 
@@ -43,7 +43,7 @@ Each recipe is designed to be:
 
 We welcome contributions from the community!  
 
-1. Start from the template in `recipes/_template/`.  
+1. Start from the template in `Model Recipes/_template/`.  
 2. Include:  
    - **Environment details** (driver, CUDA, SGL version, OS)  
    - **Hardware description** (GPU type, count, interconnect)  
